@@ -11,3 +11,7 @@ https://github.com/mikeizbicki/datasets/blob/master/csv/uci/house-votes-84.data
 
 ![image](https://user-images.githubusercontent.com/112272836/215267866-5da9561f-a083-4c4c-828e-8d2731ce6105.png)
 
+-Results:
+
+![image](https://user-images.githubusercontent.com/112272836/215267923-00d46c1a-bb7d-443d-bc6f-419d88a210af.png)
+
